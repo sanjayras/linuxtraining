@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 #3rd line
+=======
+Hi
+
+second commit
+>>>>>>> parent of 9c53deb ( latest changes)
